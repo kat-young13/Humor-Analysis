@@ -1,0 +1,24 @@
+SemEval Task 7
+Varsha Vatsavai, Humera Aamreen, Kat Young
+
+Authors: Varsha and Humera
+
+Prerequisites: 
+•	       Python 2 or 3
+•	       Libraries: Pandas, Numpy, stopwords, digits, TextBlob, nltk, KeyedVectors, Keras, test_train_split, Linear_Regression
+
+Installations:
+•	conda install numpy
+•	conda install pandas
+•	conda install string
+•	conda install TextBlob
+•	conda install nltk
+•	conda install gensim
+•	conda install keras
+•	conda install regex
+
+Word Embedding: 
+Download: From the below link download the Google news vectors and store it in the location same as the jupyter notebook.
+Download: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+
+GitHub Repo: https://github.com/youngk6/SemEval-Task-7
